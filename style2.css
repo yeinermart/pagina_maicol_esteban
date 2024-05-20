@@ -1,0 +1,54 @@
+/body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #00eaff;
+}
+
+header {
+    background-color: #0015ff;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    text-align: center;
+}
+
+
+section.unidad {
+    background-color: #ececec;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+section.unidad h2 {
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+section.unidad89 h3 {
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+.unidad89 h3 a {
+    color: rgb(0, 119, 255); /* Cambia 'blue' por el color deseado */
+}
